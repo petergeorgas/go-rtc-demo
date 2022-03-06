@@ -1,5 +1,9 @@
 package main
 
-func main() {
+import (
+	"live-chat/client"
+)
 
+func main() {
+	client.Main()
 }
